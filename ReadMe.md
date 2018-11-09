@@ -3,7 +3,9 @@
 ## Roles and Responsibilities 
 
 GB - Financing 
+
 AB - Technical Director
+
 AP - Mobile / API Developer
 
 ## Minimal Viable Product 
